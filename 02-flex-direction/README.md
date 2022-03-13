@@ -1,6 +1,10 @@
-### 2 - flex-direction
+## 2 - flex-direction
 ![](https://css-tricks.com/wp-content/uploads/2018/10/flex-direction.svg)
 Indica a direção dos itens, definindo o que vamos chamar de eixo principal (main-axis).
+
+
+![Flex-direction:row](https://github.com/Clara-Pacheco/CSS-Flexbox/blob/main/02-flex-direction/wEg7wdKEfv9-bqaiB-t9hzOapBPiqZVYNFIh.gif)
+![Flex-direction:column](https://github.com/Clara-Pacheco/CSS-Flexbox/blob/main/02-flex-direction/zYdQGSmhtMyqcAbEUDoEehohC8E-gtgvQx6b.gif)
 
 
 - **row (padrão):** da esquerda para direita
