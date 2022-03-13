@@ -4,6 +4,8 @@ Alinha os itens flex no container de acordo com a direção. A propriedade só f
 
 Excelente propriedade para ser usada em casos que você deseja alinhar um item na ponta esquerda e outro na direita, como em um simples header com marca e navegação.
 
+![justify:content](https://github.com/Clara-Pacheco/CSS-Flexbox/blob/main/04-justify-content/OBGVr-DdHiQ2y9VOWuhXqXeGnFnyDSBTx7hv.gif)
+
 
 ![](https://css-tricks.com/wp-content/uploads/2018/10/justify-content.svg)
 Define o alinhamento dos itens ao longo do **eixo principal**.
