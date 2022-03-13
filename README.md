@@ -366,3 +366,6 @@ A propriedade **align-self** nos permite sobrescrever o valor desta propriedade 
    align-self: auto;  
 }
 ```
+
+
+1[Poster from CSS Tricks](https://github.com/Clara-Pacheco/CSS-Flexbox/blob/main/01-display/css-flexbox-poster.png)
