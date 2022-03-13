@@ -7,3 +7,25 @@ Ao definir 1 para todos os Flex Itens, eles tentarão ter a mesma largura e vão
 Se você tiver uma linha com quatro itens, onde três são flex-grow: 1 e um flex-grow: 2, o flex-grow: 2 tentará ocupar 2 vezes mais espaço extra do que os outros elementos.
 
 OBS: justify-content não funciona em items com flex-grow definido.
+
+![](https://css-tricks.com/wp-content/uploads/2018/10/flex-grow.svg)
+
+Indica o quanto um item pode **crescer** caso seja necessário. Deve ser um número inteiro positivo.
+Isso significa que se todos os itens tiverem o valor 1, o espaço disponível será distribuído igualmente a todos eles.
+Caso um dos itens tenha o valor 2, este item poderá ter duas vezes mais espaço do que os outros.
+
+
+```css
+.container{
+   display: flex;  
+}
+.item{
+   flex-grow: 1;  
+}
+.item.selected{
+   flex-grow: 2;  
+}
+```
+
+
+<br />
