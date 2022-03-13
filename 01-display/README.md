@@ -10,3 +10,5 @@ Torna o elemento um flex container automaticamente transformando todos os seus f
 
 https://youtu.be/326-B1avuYo
 
+![Poster from CSS Tricks](https://github.com/Clara-Pacheco/CSS-Flexbox/blob/main/01-display/css-flexbox-poster.png)
+
