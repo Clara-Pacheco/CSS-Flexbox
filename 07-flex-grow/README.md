@@ -29,3 +29,5 @@ Caso um dos itens tenha o valor 2, este item poderá ter duas vezes mais espaço
 <br />
 
 ![Flex-grow image](https://github.com/Clara-Pacheco/CSS-Flexbox/blob/main/07-flex-grow/flexbox.png%20(400%C3%97300)%20-%20Google%20Chrome%2014_03_2022%2006_37_43.png)
+
+![Flex-grow image2](https://github.com/Clara-Pacheco/CSS-Flexbox/blob/main/07-flex-grow/flexbox.png%20(400%C3%97300)%20-%20Google%20Chrome%2014_03_2022%2006_38_21.png)
