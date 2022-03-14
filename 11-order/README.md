@@ -20,5 +20,8 @@ Com a propriedade **order** nós podemos alterar a ordem dos elementos. O valor 
 <br />
 
 ![](https://github.com/Clara-Pacheco/CSS-Flexbox/blob/main/11-order/images%20(392%C3%97129)%20-%20Google%20Chrome%2014_03_2022%2007_08_48.png)
+
+<br>
+
 ![](https://github.com/Clara-Pacheco/CSS-Flexbox/blob/main/11-order/images%20(392%C3%97129)%20-%20Google%20Chrome%2014_03_2022%2007_09_26.png)
 
