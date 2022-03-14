@@ -1,0 +1,19 @@
+.parent {
+    display: flex;
+    width: 400px;
+    height: 200px;
+    flex-direction: column;
+    background: pink;
+    align-items: flex-end;
+  }
+  
+  .item {
+      background: #cde;
+      padding: 8px 16px;
+      display: inline-block;
+      margin: 0 0 16px;
+  }
+  
+  .item-self {
+    align-self: flex-start;
+  }
